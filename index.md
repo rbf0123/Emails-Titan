@@ -1,37 +1,132 @@
-## Welcome to GitHub Pages
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/rbf0123/Emails-Titan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <meta nome="viewport" content="width=device=width, initial-scale=1.0">
+     <title>Controle de E-mails</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+     <style>
+         body{
+             font-family: Arial, Helvetica, sans-serif;
+         }
+         table{
+             border-collapse: collapse;
+         }
+         caption {
+            font-size: 1.2em;
+            font-weight: bolder;
+            padding: 20px;
+         }
 
-### Markdown
+         th, td{
+             border: 1px solid black;
+             padding: 10px;
+         }
+         tr:nth-child(even){
+             background-color: rgb(228, 228, 228);
+         }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+         div#container{
+             overflow-x: auto ;
+         }
+     </style>
 
-```markdown
-Syntax highlighted code block
+</head> 
+<body>
+   <h1>Controle de Emails </h1>
+   <p>Relação de emails da empresa.</p> 
+   
+   <div id="container">
+    <table>
+        <caption>Lista de Email</caption>
+       <thead>
+        <tr>
+            <th>E-mail</th>
+            <th>Senha</th>
+            <th>Observação</th> 
+        </tr>
 
-# Header 1
-## Header 2
-### Header 3
+        </thead>
 
-- Bulleted
-- List
+        <tbody>
+          <tr>
+            <td>logistica@titanexpress.com.br</td>
+            <td>LogisticaTitan@22</td>
+            <td>Sem comentário </td>
+          </tr>
 
-1. Numbered
-2. List
+          <tr>
+            <td>expedicaounilever@titanexpress.com.br</td>
+            <td>ExpedicaoTitan@19</td>
+            <td>Sem comentário </td>
+          </tr>
 
-**Bold** and _Italic_ and `Code` text
+          <tr>
+            <td>logistica@titanexpress.com.br</td>
+            <td>LogisticaTitan@22</td>
+            <td>Sem comentário </td>
+          </tr>
 
-[Link](url) and ![Image](src)
-```
+          <tr>
+            <td>operacao.itau@titanexpress.com.br</td>
+            <td>OperacaoTitan-2019</td>
+            <td>Sem comentário </td>
+          </tr>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+          <tr>
+            <td>operacao4bio@titanexpress.com.br</td>
+            <td>operacao4bio@</td>
+            <td>Sem comentário </td>
+          </tr>
 
-### Jekyll Themes
+          <tr>
+            <td>transporte@titanexpress.com.br</td>
+            <td>TransporteTitan@22</td>
+            <td>Sem comentário </td>
+          </tr>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rbf0123/Emails-Titan/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+          <tr>
+            <td>transporte.dasa@titanexpress.com.br</td>
+            <td>TransporteDasa@19</td>
+            <td>Sem comentário </td>
+          </tr>
 
-### Support or Contact
+          <tr>
+            <td>transporte.einstein@titanexpress.com.br</td>
+            <td>EinsteinTitan@21</td>
+            <td>Sem comentário </td>
+          </tr>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+          <tr>
+            <td>transporte.sp@titanexpress.com.br</td>
+            <td>TransporteSp$21</td>
+            <td>Sem comentário </td>
+          </tr>
+
+          <tr>
+            <td>gestaodefrotas@titanexpress.com.br</td>
+            <td>gestaodefrotastitan@</td>
+            <td>Sem comentário </td>
+          </tr>
+
+          <tr>
+            <td>gestaodeprocessos@titanexpress.com.br</td>
+            <td>GestaoTitan@2021</td>
+            <td>Sem comentário </td>
+          </tr>
+
+          <tr>
+            <td>portaaporta@titanexpress.com.br</td>
+            <td>PortaaportaTitan@20</td>
+            <td>Sem comentário </td>
+          </tr>
+            
+        </tbody>
+
+    </table>
+</div>
+   
+   
+</body>
+
+</html>
