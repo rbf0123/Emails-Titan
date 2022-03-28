@@ -58,7 +58,20 @@
           </tr>
 
           <tr>
+            <td>caps.einstein@titanexpress.com.br</td>
+            <td>CapsEinsteinTitan@19</td>
+            <td>Sem comentário </td>
+          </tr>
+          
+
+          <tr>
             <td>expedicaounilever@titanexpress.com.br</td>
+            <td>ExpedicaoTitan@19</td>
+            <td>Sem comentário </td>
+          </tr>
+
+          <tr>
+            <td>frota@titanexpress.com.br</td>
             <td>ExpedicaoTitan@19</td>
             <td>Sem comentário </td>
           </tr>
