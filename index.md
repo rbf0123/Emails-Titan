@@ -33,12 +33,12 @@
 
 </head> 
 <body>
-   <h1><center>Controle de Emails Titan</center> </h1>
+   <h1><center>Controle de emails Titan</center> </h1>
    <p>Relação de emails da empresa.</p> 
    
    <div id="container">
     <table>
-        <caption>Lista de Email</caption>
+        <caption>Lista de E-mail</caption>
        <thead>
         <tr>
             <th><center>E-mail</center></th>
