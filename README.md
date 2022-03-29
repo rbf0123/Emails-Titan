@@ -35,7 +35,7 @@
 
 </head> 
 <body>
-   <h1>Controle de Emails Titan </h1>
+   <h1>Controle de Emails </h1>
    <p>Relação de emails da empresa.</p> 
    
    <div id="container">
