@@ -33,7 +33,7 @@
 
 </head> 
 <body>
-   <h1>Controle de Emails Titan </h1>
+   <h1><center>Controle de Emails Titan</center> </h1>
    <p>Relação de emails da empresa.</p> 
    
    <div id="container">
@@ -41,9 +41,9 @@
         <caption>Lista de Email</caption>
        <thead>
         <tr>
-            <th>E-mail</th>
-            <th>Senha</th>
-            <th>Observação</th> 
+            <th><center>E-mail</center></th>
+            <th><center>Senha</center></th>
+            <th><center>Observação</center></th> 
         </tr>
 
         </thead>
