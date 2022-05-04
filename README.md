@@ -144,7 +144,7 @@
           <tr>
             <td>fretes@titanexpress.com.br</td>
             <td>FretesTitan@22</td>
-            <td>Criado em 29/04/2022 </td>
+            <td>Criado em 29/04/2022</td>
           </tr>
             
         </tbody>
