@@ -43,7 +43,7 @@
         <tr>
             <th><center>E-mail</center></th>
             <th><center>Senha</center></th>
-            <th><center>Observação</center></th> 
+            <th><center>Criacao/Situacao</center></th> 
         </tr>
 
         </thead>
