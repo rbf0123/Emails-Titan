@@ -35,7 +35,7 @@
 <body>
    <h1><center>Controle de emails Titan</center> </h1>
    <p>Relação de emails da empresa.</p> 
-   <p align=justify>Nota de Confidencialidade: A informação contida neste documento é para uso único e exclusivo da pessoa a quem se destina, e pode tratar-se de assunto confidencial. Se você não é o destinatário, por favor, notifique-nos imediatamente e destrua o documento. Não leia o conteúdo para nenhuma outra pessoa, nem tome quaisquer notas, pois ambos os procedimentos podem ser punidos legalmente.</p>
+   <p align="justify">Nota de Confidencialidade: A informação contida neste documento é para uso único e exclusivo da pessoa a quem se destina, e pode tratar-se de assunto confidencial. Se você não é o destinatário, por favor, notifique-nos imediatamente e destrua o documento. Não leia o conteúdo para nenhuma outra pessoa, nem tome quaisquer notas, pois ambos os procedimentos podem ser punidos legalmente.</p>
    
    <div id="container">
     <table>
