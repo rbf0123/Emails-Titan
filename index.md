@@ -52,85 +52,85 @@
           <tr>
             <td>logistica@titanexpress.com.br</td>
             <td>LogisticaTitan@22</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>caps.einstein@titanexpress.com.br</td>
             <td>CapsEinsteinTitan@19</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
           
           <tr>
             <td>expedicaounilever@titanexpress.com.br</td>
             <td>ExpedicaoTitan@19</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>frota@titanexpress.com.br</td>
             <td>ExpedicaoTitan@19</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>logistica@titanexpress.com.br</td>
             <td>LogisticaTitan@22</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>operacao.itau@titanexpress.com.br</td>
             <td>OperacaoTitan-2019</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>operacao4bio@titanexpress.com.br</td>
             <td>operacao4bio@</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>transporte@titanexpress.com.br</td>
             <td>TransporteTitan@22</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>transporte.dasa@titanexpress.com.br</td>
             <td>TransporteDasa@19</td>
-            <td>Sem comentário </td>
+           <td>Ativo</td>
           </tr>
 
           <tr>
             <td>transporte.einstein@titanexpress.com.br</td>
             <td>EinsteinTitan@21</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>transporte.sp@titanexpress.com.br</td>
             <td>TransporteSp$21</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>gestaodefrotas@titanexpress.com.br</td>
             <td>gestaodefrotastitan@</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>gestaodeprocessos@titanexpress.com.br</td>
             <td>GestaoTitan@2021</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
             <td>portaaporta@titanexpress.com.br</td>
             <td>PortaaportaTitan@20</td>
-            <td>Sem comentário </td>
+            <td>Ativo</td>
           </tr>
 
           <tr>
@@ -144,7 +144,30 @@
             <td>FretesTitan@22</td>
             <td>Criado em 29/04/2022</td>
           </tr>
-            
+
+          <tr>
+            <td>operacaointerior@titanexpress.com.br</td>
+            <td>OperacaoInterior@22</td>
+            <td>Criado em 30/05/2022</td>
+          </tr>
+
+          <tr>
+            <td>operacaotim@titanexpress.com.br</td>
+            <td>OperacaoTim@22</td>
+            <td>Criado em 30/05/2022</td>
+          </tr>
+
+          <tr>
+            <td>expedicaotim@titanexpress.com.br</td>
+            <td>ExpedicaoTim@22</td>
+            <td>Criado em 30/05/2022</td>
+          </tr>
+          
+          <tr>
+            <td>jamile.rodrigues@titanexpress.com.br</td>
+            <td>JamileRodrigues@22</td>
+            <td>Ativo</td>
+          </tr>
             
         </tbody>
 
