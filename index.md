@@ -136,31 +136,31 @@
           <tr>
             <td>operacaosaude@titanexpress.com.br</td>
             <td>OperacaoSaude@22</td>
-            <td>Criado em 04/05/2022</td>
+            <td>04/05/2022</td>
           </tr>
 
           <tr>
             <td>fretes@titanexpress.com.br</td>
             <td>FretesTitan@22</td>
-            <td>Criado em 29/04/2022</td>
+            <td>29/04/2022</td>
           </tr>
 
           <tr>
             <td>operacaointerior@titanexpress.com.br</td>
             <td>OperacaoInterior@22</td>
-            <td>Criado em 30/05/2022</td>
+            <td>30/05/2022</td>
           </tr>
 
           <tr>
             <td>operacaotim@titanexpress.com.br</td>
             <td>OperacaoTim@22</td>
-            <td>Criado em 30/05/2022</td>
+            <td>30/05/2022</td>
           </tr>
 
           <tr>
             <td>expedicaotim@titanexpress.com.br</td>
             <td>ExpedicaoTim@22</td>
-            <td>Criado em 30/05/2022</td>
+            <td>30/05/2022</td>
           </tr>
           
           <tr>
