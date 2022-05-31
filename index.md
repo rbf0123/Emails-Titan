@@ -38,7 +38,7 @@
    
    <div id="container">
     <table>
-        <caption>Tabela de E-mail</caption>
+        <caption>Tabela de E-mail - Versão 2</caption>
        <thead>
         <tr>
             <th><center>E-mail</center></th>
