@@ -34,7 +34,9 @@
 </head> 
 <body>
    <h1><center>Controle de emails Titan</center> </h1>
+
    <p>Relação de emails da empresa.</p> 
+   
    <p align="justify">Nota de Confidencialidade: A informação contida neste documento é para uso único e exclusivo da pessoa a quem se destina, e pode tratar-se de assunto confidencial. Se você não é o destinatário, por favor, notifique-nos imediatamente e destrua o documento. Não leia o conteúdo para nenhuma outra pessoa, nem tome quaisquer notas, pois ambos os procedimentos podem ser punidos legalmente.</p>
    
    <div id="container">
@@ -53,85 +55,85 @@
           <tr>
             <td>logistica@titanexpress.com.br</td>
             <td>LogisticaTitan@22</td>
-            <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
 
           <tr>
             <td>caps.einstein@titanexpress.com.br</td>
             <td>CapsEinsteinTitan@19</td>
-            <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
           
           <tr>
             <td>expedicaounilever@titanexpress.com.br</td>
             <td>ExpedicaoTitan@19</td>
-            <td>Ativo</td>
+             <td>Ativa</td>
           </tr>
 
           <tr>
             <td>frota@titanexpress.com.br</td>
             <td>ExpedicaoTitan@19</td>
-            <td>Ativo</td>
+             <td>Ativa</td>
           </tr>
 
           <tr>
             <td>logistica@titanexpress.com.br</td>
             <td>LogisticaTitan@22</td>
-            <td>Ativo</td>
+             <td>Ativa</td>
           </tr>
 
           <tr>
             <td>operacao.itau@titanexpress.com.br</td>
             <td>OperacaoTitan-2019</td>
-            <td>Ativo</td>
+             <td>Ativa</td>
           </tr>
 
           <tr>
             <td>operacao4bio@titanexpress.com.br</td>
             <td>operacao4bio@</td>
-            <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
 
           <tr>
             <td>transporte@titanexpress.com.br</td>
             <td>TransporteTitan@22</td>
-            <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
 
           <tr>
             <td>transporte.dasa@titanexpress.com.br</td>
             <td>TransporteDasa@19</td>
-           <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
 
           <tr>
             <td>transporte.einstein@titanexpress.com.br</td>
             <td>EinsteinTitan@21</td>
-            <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
 
           <tr>
             <td>transporte.sp@titanexpress.com.br</td>
             <td>TransporteSp$21</td>
-            <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
 
           <tr>
             <td>gestaodefrotas@titanexpress.com.br</td>
             <td>gestaodefrotastitan@</td>
-            <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
 
           <tr>
             <td>gestaodeprocessos@titanexpress.com.br</td>
             <td>GestaoTitan@2021</td>
-            <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
 
           <tr>
             <td>portaaporta@titanexpress.com.br</td>
             <td>PortaaportaTitan@20</td>
-            <td>Ativo</td>
+            <td>Ativa</td>
           </tr>
 
           <tr>
