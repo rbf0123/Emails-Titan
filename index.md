@@ -163,12 +163,7 @@
             <td>30/05/2022</td>
           </tr>
           
-          <tr>
-            <td>jamile.rodrigues@titanexpress.com.br</td>
-            <td>JamileRodrigues@22</td>
-            <td>Ativo</td>
-          </tr>
-            
+                   
         </tbody>
 
     </table>
