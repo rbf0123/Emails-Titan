@@ -77,12 +77,6 @@
           </tr>
 
           <tr>
-            <td>logistica@titanexpress.com.br</td>
-            <td>LogisticaTitan@22</td>
-             <td>Ativa</td>
-          </tr>
-
-          <tr>
             <td>operacao.itau@titanexpress.com.br</td>
             <td>OperacaoTitan-2019</td>
              <td>Ativa</td>
